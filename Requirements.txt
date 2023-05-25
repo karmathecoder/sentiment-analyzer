@@ -85,3 +85,4 @@ wasabi==1.1.1
 Werkzeug==2.2.2
 wordcloud==1.8.2.2
 zope.interface==5.5.2
+gunicorn
